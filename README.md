@@ -1,0 +1,2 @@
+# milobahgElastic
+Docker elasticsearch
